@@ -1,0 +1,64 @@
+
+
+.inline {
+  list-style-type: none;
+  display: inline;
+  padding: 10px;
+}
+
+.navbar {
+  text-align: right;
+}
+
+.div-section {
+  text-align: center;
+}
+
+#search-bar {
+  border: 1px solid rgb(2, 159, 255);
+}
+
+.input-container {
+  text-align: center;
+  padding-bottom: 220px;
+}
+
+
+input {
+  width: 50%;
+
+}
+
+.left-assign {
+  list-style-type: none;
+  display: inline-block;
+  text-align: left;
+  width: 50%
+}
+
+.footer-class {
+  display: inline !important;
+  /*display: inline-block;*/
+}
+
+.right-assign {
+  list-style-type: none;
+  text-align: right;
+  display: inline-block;
+  margin-left: -4.5px;
+  width: 50%
+}
+
+.footer-bot {
+  display: inline !important;
+  /*display: inline-block;*/
+}
+
+footer {
+  /*position: absolute;*/
+  bottom: 0;
+}
+
+.footertwo {
+  visibility: hidden;
+}
